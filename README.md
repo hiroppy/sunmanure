@@ -4,3 +4,13 @@
 
 This site will help you to fill the contributions of Github.  
 
+## tasklist
+- [ ] throw mail if you don't push to github
+- [ ] visualization contributions(2D or 3D)
+
+## api 
+https://api.github.com/
+https://github.com/users/"username"/contributions  
+
+
+
